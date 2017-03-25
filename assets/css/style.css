@@ -1,0 +1,51 @@
+body{
+	/*background-image: url("https://s-media-cache-ak0.pinimg.com/736x/4f/14/a5/4f14a58c4295cf2d92821795dcd3ffa7.jpg");*/
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-size: 24px;
+	font-family: 'Architects Daughter', cursive;
+	font-weight: 700;
+	text-align: center;
+	text-shadow: 2px 2px 8px #6b696d;
+	
+
+
+
+
+	
+
+
+
+}
+
+
+
+#header{
+	background:#efce62 ;
+	padding: 3%;
+	width: 40%;
+	border: 6px outset black;
+	margin-left: 25%;
+	text-align: center;
+	text-shadow: 5px 5px 8px #595855;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 40px;
+	font-weight: 700;
+	color: black;
+
+
+}
+
+.quizContainer{
+	background: black;
+	
+}
+
+#startButton{
+	background: #514a56;
+	color: #d7d2db;
+	border: 6px outset black;
+	width: 30%;
+	font-size: 20px;
+}
+
